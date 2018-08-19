@@ -6,6 +6,8 @@ abc: true
 
 ## Class Discussion
 
+This is class today, and it's enlightening.
+
 Given that the class is already familiar with note names and staff notation, the discussion of identifying pitches on clefs was a brief, simple dictation of the note names divided into lines and spaces for each clef. They were:
 
 {% capture ex1 %}X: 1
